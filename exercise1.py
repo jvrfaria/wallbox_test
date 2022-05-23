@@ -36,4 +36,3 @@ def first_exercise(array1: list[int] | tuple[int], array2: list[int] | tuple[int
                 result = number2
                 return result
     return result
-

@@ -1,5 +1,5 @@
 import pytest
-from part1 import first_exercise
+from exercise1 import first_exercise
 
 
 @pytest.mark.parametrize(
